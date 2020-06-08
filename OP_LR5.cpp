@@ -42,7 +42,7 @@ struct Node
 class StList
 {
 private:
-	void readTreeUtil(Node* cur)
+	void readTreeUtil(Node* cur) 
 	{
 		if (cur->left != nullptr)
 			readTreeUtil(cur->left);
@@ -59,7 +59,7 @@ private:
 		}
 		return stod(name);
 	}
-	double calculateTreeUtil(Node* cur)
+	double calculateTreeUtil(Node* cur) // performing the sequence of mathematical operations
 	{
 		if (cur->is_op)
 		{
