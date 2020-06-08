@@ -1,0 +1,7 @@
+﻿  OP_LR5.cpp
+C:\Users\bryto\source\repos\OP_LR5\OP_LR5.cpp(55,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bryto\source\repos\OP_LR5\OP_LR5.cpp(102,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bryto\source\repos\OP_LR5\OP_LR5.cpp(133,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bryto\source\repos\OP_LR5\OP_LR5.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bryto\source\repos\OP_LR5\OP_LR5.cpp(94): warning C4715: StList::calculateTreeUtil: значение возвращается не при всех путях выполнения
+  OP_LR5.vcxproj -> C:\Users\bryto\source\repos\OP_LR5\Debug\OP_LR5.exe
